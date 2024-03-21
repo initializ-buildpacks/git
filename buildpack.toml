@@ -2,7 +2,7 @@ api = "0.7"
 
 [buildpack]
   homepage = "https://github.com/initializ-buildpacks/git"
-  id = "initializ-buildpack/git"
+  id = "initializ-buildpacks/git"
   name = "Intitializ Buildpack for Git"
 
 [metadata]
