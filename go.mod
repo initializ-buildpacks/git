@@ -1,8 +1,6 @@
 module github.com/initializ-buildpacks/git
 
-go 1.21
-
-toolchain go1.22.5
+go 1.23.1
 
 require (
 	github.com/BurntSushi/toml v1.3.2
